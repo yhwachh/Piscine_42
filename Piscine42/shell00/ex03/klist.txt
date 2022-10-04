@@ -1,0 +1,5 @@
+Credentials cache: API:1E7745F0-F06B-48D4-8157-221E8ED734C1
+        Principal: ibalbako@42MULHOUSE.FR
+
+  Issued                Expires             Flags    Principal
+Nov  9 12:42:01 2021  Nov  9 22:42:01 2021  FPRIA  krbtgt/42MULHOUSE.FR@42MULHOUSE.FR
